@@ -1,0 +1,15 @@
+comtypes==1.1.7
+cycler==0.10.0
+kiwisolver==1.1.0
+matplotlib==3.1.2
+mpmath==1.1.0
+numpy==1.18.1
+pygame==1.9.6
+pykinect2==0.1.0
+pyparsing==2.4.6
+python-dateutil==2.8.1
+scipy==1.4.1
+six==1.14.0
+sympy==1.5.1
+uncertainties==3.1.2
+virtualenv==16.7.9
