@@ -6,5 +6,11 @@
 >
 > - Unknown
 
+### Requirements
 
+1. Install the project's libraries with the following command:
+
+```python
+$ pip install -r requirements.txt
+```
 
