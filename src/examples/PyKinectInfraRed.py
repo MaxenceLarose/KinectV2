@@ -97,5 +97,5 @@ class InfraRedRuntime(object):
 
 
 __main__ = "Kinect v2 InfraRed"
-game = InfraRedRuntime();
-game.run();
+game = InfraRedRuntime()
+game.run()
